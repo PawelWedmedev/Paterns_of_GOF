@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mrmid\desktop\patern_chain_of_responsibilities\patern_chain_of_responsibilities\source.cpp(7): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Patern_Chain_of_responsibilities.vcxproj -> C:\Users\mrmid\Desktop\Patern_Chain_of_responsibilities\Debug\Patern_Chain_of_responsibilities.exe
+  Patern_Chain_of_responsibilities.vcxproj -> C:\Users\mrmid\Desktop\Patern_Chain_of_responsibilities\Debug\Patern_Chain_of_responsibilities.pdb (Full PDB)

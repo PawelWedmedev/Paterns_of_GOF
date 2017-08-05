@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\mrmid\desktop\patern_flyweight\patern_flyweight\header.h(37): warning C4305: аргумент: усечение из "int" к "char"
+c:\users\mrmid\desktop\patern_flyweight\patern_flyweight\header.h(37): warning C4309: аргумент: усечение константного значения
+c:\users\mrmid\desktop\patern_flyweight\patern_flyweight\header.h(45): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note:  см. объявление "itoa"
+  Patern_FlyWeight.vcxproj -> C:\Users\mrmid\Desktop\Patern_FlyWeight\Debug\Patern_FlyWeight.exe
+  Patern_FlyWeight.vcxproj -> C:\Users\mrmid\Desktop\Patern_FlyWeight\Debug\Patern_FlyWeight.pdb (Full PDB)

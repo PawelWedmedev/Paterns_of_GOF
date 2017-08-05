@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mrmid\desktop\patern_proxi1\patern_proxi\source.cpp(7): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Patern_Proxi.vcxproj -> C:\Users\mrmid\Desktop\Patern_Proxi1\Debug\Patern_Proxi.exe
+  Patern_Proxi.vcxproj -> C:\Users\mrmid\Desktop\Patern_Proxi1\Debug\Patern_Proxi.pdb (Full PDB)

@@ -1,1 +1,1 @@
-# Paterns_of_GOF
+Paterns_of_GOF. Examples on C++

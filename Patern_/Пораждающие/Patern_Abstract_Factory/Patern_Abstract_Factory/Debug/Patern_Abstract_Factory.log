@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\mrmid\desktop\patern_abstract_factory\patern_abstract_factory\main.cpp(8): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Patern_Abstract_Factory.vcxproj -> C:\Users\mrmid\Desktop\Patern_Abstract_Factory\Debug\Patern_Abstract_Factory.exe
+  Patern_Abstract_Factory.vcxproj -> C:\Users\mrmid\Desktop\Patern_Abstract_Factory\Debug\Patern_Abstract_Factory.pdb (Full PDB)

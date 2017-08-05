@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mrmid\desktop\patern_builder\patern_builder\header.h(18): warning C4018: <: несоответствие типов со знаком и без знака
+  Patern_Builder.vcxproj -> C:\Users\mrmid\Desktop\Patern_Builder\Debug\Patern_Builder.exe
+  Patern_Builder.vcxproj -> C:\Users\mrmid\Desktop\Patern_Builder\Debug\Patern_Builder.pdb (Full PDB)

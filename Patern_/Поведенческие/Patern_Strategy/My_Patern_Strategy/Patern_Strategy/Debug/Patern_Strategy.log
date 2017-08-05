@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mrmid\desktop\strategy\patern_strategy\patern_strategy\source.cpp(18): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Patern_Strategy.vcxproj -> C:\Users\mrmid\Desktop\Strategy\Patern_Strategy\Debug\Patern_Strategy.exe
+  Patern_Strategy.vcxproj -> C:\Users\mrmid\Desktop\Strategy\Patern_Strategy\Debug\Patern_Strategy.pdb (Full PDB)
